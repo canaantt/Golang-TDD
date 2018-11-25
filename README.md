@@ -1,6 +1,10 @@
 # Golang-TDD - Quotes from 
 https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces
 
+## A good reference on TDD
+https://www.guru99.com/test-driven-development.html
+
+
 ## benchmarks
 It's similar to writing tests but it gives more details. Instead of using *testing.T, benchmark uses *testing.B. Naming convention is Benchmark<Name_of_Function>. 
 
