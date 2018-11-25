@@ -13,7 +13,7 @@ It's similar to writing tests but it gives more details. Instead of using *testi
 ## Arrays and slices...
 Slices do not encode the size of the collection
 
-## Structs and Interfacse
+## Structs and Interfaces
 This is quite different to interfaces in most other programming languages. Normally you have to write code to say My type Foo implements interface Bar.
 
 But in our case
