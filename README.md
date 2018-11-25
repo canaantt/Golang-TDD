@@ -29,3 +29,7 @@ But in our case
 ## [Table driven tests](https://github.com/golang/go/wiki/TableDrivenTests) 
 ​Table driven tests are useful when you want to build a list of test cases that can be tested in the same manner.
 
+## Pointer
+Pointers let us point to some values and then let us change them. So rather than taking a copy of the Wallet, we take a pointer to the wallet so we can change it.
+> The difference is the receiver type is *Wallet rather than Wallet which you can read as "a pointer to a wallet".
+
